@@ -7,10 +7,10 @@
 <br>To achieve this, I pursue a holistic engineering approach that encompasses AI model development, efficiency-focused model optimization, and robust system architecture design. 
 
 ## 🎓 Education
-<li> B.S in Electric and Electronic Engineering; Inha Univ.; **March. 2020 - Feb. 2027(expected)** </li>
+<li> B.S in Electric and Electronic Engineering; Inha Univ.; March. 2020 - Feb. 2027(expected) </li>
 
 ## 🔭 Experience
-<li> IESL(Intelligence Embedded System Lab); Inha Univ; **July. 2025 - present** </li>
+<li> IESL(Intelligence Embedded System Lab); Inha Univ; July. 2025 - present </li>
 
 ## 🌱Research Interests
 
