@@ -3,7 +3,7 @@
 *Undergraduate Student in Embedded AI | Robotics | Signal processing*
 <br>
 <br> I am a researcher passionate about the development and optimization of Intelligent Systems.
-<br> My goal is to contrubute to the advancement of Intelligent Systems that deliver exceptional user experiences. 
+<br> My goal is to contribute to the advancement of Intelligent Systems that deliver exceptional user experiences. 
 <br>To achieve this, I pursue a holistic engineering approach that encompasses AI model development, efficiency-focused model optimization, and robust system architecture design. 
 
 ## 🎓 Education
