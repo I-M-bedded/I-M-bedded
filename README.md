@@ -10,7 +10,7 @@
 <li> B.S in Electric and Electronic Engineering; Inha Univ.; March. 2020 - Feb. 2027(expected) </li>
 
 ## 🔭 Experience
-<li> IESL(Intelligence Embedded System Lab); Inha Univ; July. 2025 - present </li>
+<li> IESL(Intelligence Embedded System Lab); Inha Univ; July. 2025 - Feb. 2026 </li>
 
 ## 🌱Research Interests
 
